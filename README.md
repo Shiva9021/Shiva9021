@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shiva9021
-- 👀 I’m interested in ...Etical Hacking
+- 👀 I’m interested in ... Hacking
 - 🌱 I’m currently learning ...Certifed Ethical Hacker (CEH)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
